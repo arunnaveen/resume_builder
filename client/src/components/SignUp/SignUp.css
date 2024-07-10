@@ -1,0 +1,27 @@
+/* SignUp.css */
+body.dark-mode {
+    background-color:#021c6b;
+    color: #ffffff;
+  }
+    
+  .dark-mode .card {
+    background-color: #021c6b;
+    color: #ffffff;
+  }
+  body {
+    background: rgb(2,0,36);
+    background: linear-gradient(18deg, rgba(2,0,36,1) 0%, rgba(8,7,138,1) 28%, rgba(9,9,121,1) 35%, rgba(6,75,164,1) 56%, rgba(3,134,203,1) 75%, rgba(0,212,255,1) 100%);
+}
+
+@media (min-width: 768px) {
+  .card {
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+
+  
+
+  
