@@ -1,0 +1,13 @@
+.body {
+    background: rgb(2,0,36);
+    background: linear-gradient(18deg, rgba(2,0,36,1) 0%, rgba(8,7,138,1) 28%, rgba(9,9,121,1) 35%, rgba(6,75,164,1) 56%, rgba(3,134,203,1) 75%, rgba(0,212,255,1) 100%);
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 100%;
+    height: auto;
+  }
+
+.h1 {
+  font-family: josefin Sans;
+  font-size: 4rem;
+}

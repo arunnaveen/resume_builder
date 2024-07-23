@@ -1,16 +1,17 @@
-/* SignUp.css */
 body.dark-mode {
-    background-color:#021c6b;
-    color: #ffffff;
-  }
-    
-  .dark-mode .card {
-    background-color: #021c6b;
-    color: #ffffff;
-  }
-  body {
-    background: rgb(2,0,36);
-    background: linear-gradient(18deg, rgba(2,0,36,1) 0%, rgba(8,7,138,1) 28%, rgba(9,9,121,1) 35%, rgba(6,75,164,1) 56%, rgba(3,134,203,1) 75%, rgba(0,212,255,1) 100%);
+  background-color: #021c6b;
+  color: #ffffff;
+}
+
+.dark-mode .card {
+  background-color: #021c6b;
+  color: #ffffff;
+}
+
+body {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(18deg, rgba(2, 0, 36, 1) 0%, rgba(8, 7, 138, 1) 28%, rgba(9, 9, 121, 1) 35%, rgba(6, 75, 164, 1) 56%, rgba(3, 134, 203, 1) 75%, rgba(0, 212, 255, 1) 100%);
+  background-repeat: no-repeat;
 }
 
 @media (min-width: 768px) {
@@ -20,8 +21,3 @@ body.dark-mode {
     padding: 0;
   }
 }
-
-
-  
-
-  
